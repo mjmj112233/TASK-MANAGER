@@ -1,0 +1,22 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  background: #dbdbdb;
+  height:inherit;
+
+}
+
+header {
+  padding: 20px;
+}
+
+button, .taskField {
+  padding: 10px;
+  font-size: 16px;
+  margin: 5px;
+}
+
+button{
+  cursor: pointer;
+}
+
